@@ -1,5 +1,3 @@
-<b>Link da aplicação online:</b> <a>https://filipelimavaz-relogiodigital.netlify.app/</a>
-
 <p>Projeto de um relógio digital utilizando HTML, CSS e Javascript</p></br>
 <p>Obrigado a todos os artistas que contribuiram nesse meu projeto de estudos !</p></br>
 
